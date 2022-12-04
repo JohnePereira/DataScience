@@ -1,6 +1,6 @@
 [![author](https://img.shields.io/badge/Author-Johne-blue.svg)](https://linktr.ee/zouza) [![Language](https://img.shields.io/badge/Language-Python|R-green.svg)
 
-![](https://blogdozouza.files.wordpress.com/2021/01/protfolio.png)
+![DataScience](https://user-images.githubusercontent.com/118026995/205522610-2d626cff-b443-4696-a121-af3389bcf407.png)
 
 
 # Portfólio de Projetos - Ciência de Dados (Buscando valor em Dados)
