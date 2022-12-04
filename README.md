@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/Author-Johne-blue.svg)](https://linktr.ee/zouza) [![Language](https://img.shields.io/badge/Language-Python|R-green.svg)
+![author](https://img.shields.io/badge/Author-Johne-blue.svg)![Language](https://img.shields.io/badge/Language-Python|R-green.svg)
 
 ![DataScience](https://user-images.githubusercontent.com/118026995/205522610-2d626cff-b443-4696-a121-af3389bcf407.png)
 
