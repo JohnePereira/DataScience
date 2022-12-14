@@ -11,7 +11,6 @@ Os Projetos iniciaram com análises de dados utilizando *Business Intelligence* 
 *Observação: Os dados são de fontes públicas e o objetivo dos trabalhos são testar e colocar em prática o uso de algoritmos, ferramentas e técnicas.*
 
 Aqui encontrará:
-- Projetos de BI em Tableau e Microsoft Power BI
 - Projetos de Machine Learning utilizando Python
 
 |    Nome do Projeto  | Notebook ou Link    | Linguagem    | Fonte de Dados  | Observação  | 
